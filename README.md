@@ -1,1 +1,1 @@
-This repository contains the source for [www.simongeorge.ltd](www.simongeorge.ltd)
+This repository contains the source for [www.simongeorge.ltd](https://www.simongeorge.ltd)
